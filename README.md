@@ -1,4 +1,4 @@
-#Demo Git Repository
+# Demo Git Repository
 
 This is the first file in this repo.
 
@@ -7,3 +7,4 @@ This is the first file in this repo.
 Here are the files in the website
 
 1. index.html
+2. styles.css
